@@ -1,6 +1,6 @@
 import java.util.Scanner;;
 
-public class TestandoExibicaoFUncao {
+public class TestandoExibicaoFuncao {
 
     public static void main(String[] args){
         int[] vetor = new int[10];
