@@ -8,7 +8,7 @@ public class StringReversa {
         fraseDigitada = fraseDigitada.trim(); //Retirando espacos iniciais e finais.
                 
         String invertida = inverterFrase(fraseDigitada);
-        JOptionPane.showMessageDialog(null, "Frase invertida(Sem espacos):" + invertida);
+        JOptionPane.showMessageDialog(null, "Frase invertida(Sem espacos): " + invertida);
 
     }
 
